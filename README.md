@@ -8,5 +8,8 @@ Ausprobieren von Greenfoot und App-Lab und Entscheidung eine App zu programmiere
 
 ### 10.09.2018:
 Buttons eingefügt und auf YT nachgeschaut, wie man sounds abspielt
+
+### 11.09.2018
+
 Mini-Spiel und Soundboard verbinden
 Zur Freischaltung von Buttons muss gepielt werden
