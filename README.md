@@ -1,4 +1,4 @@
-# DasProjekt
+# Soundboard mit Spiel
 
 ### 27.08.2018: 
 Ausprobieren von BJC
@@ -10,10 +10,11 @@ Ausprobieren von Greenfoot und App-Lab und Entscheidung eine App zu programmiere
 Buttons eingefügt und auf YT nachgeschaut, wie man sounds abspielt
 
 ### 11.09.2018
-
 Mini-Spiel und Soundboard verbinden (Idee)
-Zur Freischaltung von Buttons muss gepielt werden
+Zur Freischaltung von Buttons muss gespielt werden
 
 ### 17.09.2018
-
 Angefangen ein Space-Invasion spiel zu programmieren
+
+### 22.10.2018 & 23.10.2018
+Mini-Spiel und Soundboard verbinden (Idee umgesetzt)
