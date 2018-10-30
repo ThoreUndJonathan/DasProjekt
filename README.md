@@ -18,3 +18,6 @@ Angefangen ein Space-Invasion spiel zu programmieren
 
 ### 22.10.2018 & 23.10.2018
 Mini-Spiel und Soundboard verbinden (Idee umgesetzt)
+
+### 30.10.2018
+fortsetzung der Programmierung des Spiels
